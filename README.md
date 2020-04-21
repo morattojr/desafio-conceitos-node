@@ -4,7 +4,7 @@
 
 <h3 align="center">Desafio 1: Conceitos do NodeJS</h3>
 
-<p align="center">Nesse projeto foi desenvolvido uma aplicação para armazenar projetos e suas tarefas do zero utilizando <a href=https://expressjs.com/pt-br> Express</a>.</p>
+<p align="center">Essa aplicação armazena repositórios do seu portfólio, permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes". <a href=https://expressjs.com/pt-br> Express</a>.</p>
 
 ## 🚀 Tecnologias
 
