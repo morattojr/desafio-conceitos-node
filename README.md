@@ -20,7 +20,7 @@
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta `cd bootcamp-gostack-challenge-01`;
+2. Entre na pasta `cd desafio-conceitos-node`;
 3. Rode `npm ou yarn` para instalar as dependências;
 4. Clique no botão <a href="https://insomnia.rest/run/?label=Conceitos%20NodeJs&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmorattojr%2Fdesafio-conceitos-node%2Fmaster%2FInsomnia_2020-04-21.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a> para que seja importado todo o workspace.
 
