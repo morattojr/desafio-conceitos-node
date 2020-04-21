@@ -4,11 +4,13 @@
 
 <h3 align="center">Desafio 1: Conceitos do NodeJS</h3>
 
-<p align="center">Essa aplicação armazena repositórios do seu portfólio, permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes". <a href=https://expressjs.com/pt-br> Express</a>.</p>
+<p align="center">Essa aplicação armazena repositórios do seu portfólio, permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes".</p>
 
 ## 🚀 Tecnologias
 
 - ⚡ [JavaScript](https://skylab.rocketseat.com.br/journey/starter)
+- ⚡ [Express](https://expressjs.com/pt-br)
+
 
 ## ✋🏻 Pré-requisitos
 
